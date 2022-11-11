@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @tvinuj737
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# DH-MD-WA-BOT
 
-<!---
-tvinuj737/tvinuj737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   
+  ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@astromdqr/AstroMdqrv2?output%20only=1&lite=1#index.js)
+
+## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tvinuj737/Astro-MD-V2)
+---------------------------------   
+
+ ###  Developer : DINUWA OFFICAL 
+
+## Thanks To
+##### ◉[@adiwajshing](https://github.com/adiwajshing/) for coded.
+##### ◉[@yusufusta](https://github.com/yusufusta/) for coded.
+##### ◉[@SamPandey001](https://github.com/SamPandey001) For session and multi file auth State.
+##### ◉[@sanuwaofficial](https://github.com/sanuwaofficial) for apk downloader and help. 
+##### ◉[@edm-official](https://github.com/edm-official) for base and help.
+##### ◉[@DarkMakerofc](https://github.com/DarkMakerofc) for help. 
